@@ -1,5 +1,5 @@
 {
-  "name": "@ts-demo/shared-ui",
+  "name": "@shared/components",
   "version": "0.0.1",
   "main": "./src/index.ts",
   "types": "./src/index.ts",
@@ -21,6 +21,8 @@
     "tailwindcss": "^4.1.14"
   },
   "dependencies": {
+    "@radix-ui/react-label": "^2.1.7",
+    "@radix-ui/react-separator": "^1.1.7",
     "@radix-ui/react-slot": "^1.2.3",
     "lucide-react": "^0.545.0",
     "radix-ui": "^1.4.3",

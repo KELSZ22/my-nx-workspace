@@ -1,5 +1,5 @@
+import { Button } from '@shared/components';
 import NxWelcome from './nx-welcome';
-import { Button } from '@ts-demo/shared-ui';
 
 import { Route, Routes, Link } from 'react-router-dom';
 

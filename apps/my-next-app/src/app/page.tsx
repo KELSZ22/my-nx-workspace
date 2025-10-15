@@ -1,4 +1,5 @@
-import { Button } from '@ts-demo/shared-ui';
+import { Button, Field, FieldLabel } from '@shared/components';
+
 export default function Index() {
   /*
    * Replace the elements below with your own.
@@ -15,7 +16,7 @@ export default function Index() {
               Welcome @ts-demo/my-next-app 👋
             </h1>
           </div>
-          <Button className="mt-4 " variant="default">
+          <Button className="mt-4 " variant="outline">
             Click me
           </Button>
 
